@@ -21,3 +21,11 @@ As my first machine learning project, there is always room for improvement. In t
 ## Conclusion
 
 In conclusion, this project marks my initiation into the field of machine learning. Through EDA and model comparison, I have gained valuable insights into the dataset and identified a robust model for predicting prices. This experience serves as a foundation for future projects and continuous learning in the exciting realm of machine learning.
+
+## Acknowledgement
+
+The project is for educational purposes and was created as part of @Prodigy_Infotech Internship
+
+Feel free to explore, modify, or expand upon this project!
+
+If you have any questions, suggestions, or feedback, please feel free to email me at jagannathsjadhav53@gmail.com
